@@ -10,6 +10,22 @@ __v0_jsx-dev-runtime.ts
 .env*.local
 
 # Common ignores
-node_modules
+node_modules/
 .next/
 .DS_Store
+
+# Environment files
+.env
+.env.local
+.env.production.local
+.env.development.local
+
+# Backend secrets
+server/.env
+
+# Dependencies
+node_modules/
+server/node_modules/
+
+# Next.js build files
+.next/
