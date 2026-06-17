@@ -109,7 +109,7 @@ The platform helps students stay organized, monitor their academic progress, and
 
 ### 🤖 AI Assistant
 
-![AI Assistant](screenshots/AI_assit.png)
+![AI Assistant](./screenshots/ai-assistant.png)
 ---
 
 ## ⚙️ Installation
